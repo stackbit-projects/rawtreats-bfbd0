@@ -45,6 +45,7 @@ sections:
         borderColor: border-primary
         borderRadius: medium
         borderWidth: 0
+        borderStyle: dashed
       title:
         fontWeight: '700'
         fontStyle: normal
