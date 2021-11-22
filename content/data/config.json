@@ -8,7 +8,7 @@
         "isTitleVisible": false,
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/Raw_Treats.png",
+            "url": "/images/Raw_Treats_Logo.png",
             "altText": "Raw Treats by Mila",
             "caption": "Raw Treats by Mila"
         },
