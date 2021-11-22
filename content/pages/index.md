@@ -35,7 +35,7 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-4
+          - pt-16
           - pb-12
           - pr-4
           - pl-4
