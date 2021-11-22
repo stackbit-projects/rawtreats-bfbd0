@@ -28,7 +28,7 @@ sections:
     styles:
       self:
         height: screen
-        width: narrow
+        width: wide
         margin:
           - mt-0
           - mb-0
