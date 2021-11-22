@@ -9,7 +9,8 @@
         "logo": {
             "type": "ImageBlock",
             "url": "/images/Raw_Treats.png",
-            "altText": "Raw Treats by Mila"
+            "altText": "Raw Treats by Mila",
+            "caption": "Raw Treats by Mila"
         },
         "primaryLinks": [
             {
