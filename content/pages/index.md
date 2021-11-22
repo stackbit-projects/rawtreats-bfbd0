@@ -6,7 +6,7 @@ sections:
     elementId: ''
     colors: colors-a
     title: Raw Treats
-    subtitle: Fresh. Better. Faster
+    subtitle: Gluten - Dairy - Sugar Free
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
