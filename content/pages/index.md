@@ -25,6 +25,7 @@ sections:
       type: ImageBlock
       url: /images/IMG_7979.jpg
       altText: Hero section image
+      caption: Raw Treats
     styles:
       self:
         height: auto
