@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: ''
     colors: colors-a
-    title: We do fishing differently.
+    title: Raw Treats
     subtitle: Fresh. Better. Faster
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
