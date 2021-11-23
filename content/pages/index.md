@@ -177,7 +177,16 @@ sections:
     colors: colors-a
     title: About Us
     subtitle: Meet the team
-    actions: []
+    actions:
+      - label: Learn more
+        altText: Learn more
+        url: /
+        showIcon: false
+        icon: arrowLeft
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
     people:
       - content/data/team/desmond-eagle.json
       - content/data/team/dianne-ameter.json
