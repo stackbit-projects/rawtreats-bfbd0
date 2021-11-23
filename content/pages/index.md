@@ -6,7 +6,7 @@ sections:
     elementId: ''
     colors: colors-a
     title: Raw Treats
-    subtitle: Gluten - Dairy - Sugar Free
+    subtitle: Vegan and raw desserts and cakes
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
