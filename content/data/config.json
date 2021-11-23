@@ -33,7 +33,7 @@
             },
             {
                 "type": "Link",
-                "label": "Holiday Collections",
+                "label": "Holidays",
                 "url": "/blog",
                 "altText": "",
                 "style": "primary"
