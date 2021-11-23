@@ -68,7 +68,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    subtitle: 'Treat yourself with '
+    subtitle: Treat yourself with healthy desserts
   - type: FeaturedPostsSection
     elementId: ''
     variant: variant-a
