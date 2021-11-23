@@ -133,7 +133,9 @@ sections:
     elementId: contact-form
     colors: colors-f
     title: "Order your\_ dessert online"
-    text: We look forward to hearing from you.
+    text: >
+      Let us know what would you like to order and we'll get back to your to
+      confirm your order
     form:
       type: FormBlock
       elementId: contact-form
