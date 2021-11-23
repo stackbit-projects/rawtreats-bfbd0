@@ -81,7 +81,7 @@ sections:
   - elementId: ''
     variant: variant-a
     colors: colors-a
-    title: About Us
+    title: Our Desserts
     subtitle: Meet the team
     actions: []
     people:
