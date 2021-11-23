@@ -35,7 +35,8 @@
                 "type": "Link",
                 "label": "Holiday Collections",
                 "url": "/blog",
-                "altText": ""
+                "altText": "",
+                "style": "primary"
             },
             {
                 "type": "Link",
