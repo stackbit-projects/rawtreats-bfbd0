@@ -40,7 +40,7 @@
             },
             {
                 "type": "Link",
-                "label": "Reviewsr",
+                "label": "Reviews",
                 "url": "/about",
                 "altText": "",
                 "style": "primary"
