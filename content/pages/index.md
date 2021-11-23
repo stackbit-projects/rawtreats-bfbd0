@@ -167,7 +167,7 @@ sections:
       submitLabel: Send Message
     feature:
       type: ImageBlock
-      url: /images/trout.png
+      url: /images/IMG_7987.jpg
       altText: Contact form image
     styles:
       self:
