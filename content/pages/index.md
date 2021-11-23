@@ -23,7 +23,7 @@ sections:
         style: secondary
     feature:
       type: ImageBlock
-      url: /images/IMG_7979.jpg
+      url: /images/IMG_7980.jpg
       altText: Hero section image
       caption: Raw Treats
     styles:
