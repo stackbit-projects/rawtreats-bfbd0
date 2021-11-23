@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: ''
     colors: colors-a
-    title: Raw Treats
+    title: Vegan and Raw Desserts
     subtitle: Vegan and raw desserts and cakes
     text: |
       *   Organic
