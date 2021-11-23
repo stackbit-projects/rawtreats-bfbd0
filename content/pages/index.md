@@ -7,7 +7,9 @@ sections:
     colors: colors-a
     title: Vegan and Raw Desserts
     text: |
+      ##### Healthy, guilt free, and extremely tasty desserts!
 
+      It's hard to believe, but they exist!
 
       *   Organic
 
