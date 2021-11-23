@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: ''
     colors: colors-a
-    title: Vegan and Raw Desserts
+    title: Healthy Desserts
     text: >
       It's hard to believe, but they exist!
 
