@@ -115,6 +115,7 @@ sections:
         justifyContent: center
         borderWidth: 0
         borderColor: border-complementary
+        borderStyle: none
       title:
         fontWeight: 700
         fontStyle: normal
