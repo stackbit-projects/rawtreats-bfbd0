@@ -89,7 +89,6 @@ sections:
       - content/data/team/dianne-ameter.json
       - content/data/team/person-54kex030r.json
       - content/data/team/hilary-ouse.json
-      - content/data/team/dianne-ameter.json
     styles:
       self:
         height: auto
