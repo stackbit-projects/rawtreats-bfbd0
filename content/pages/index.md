@@ -77,7 +77,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    subtitle: Treat yourself with healthy desserts!
+    subtitle: 'Treat yourself with healthy, guilt free, and extremely tasty desserts!'
   - type: FeaturedPostsSection
     elementId: ''
     variant: variant-a
