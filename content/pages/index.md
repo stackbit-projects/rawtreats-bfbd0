@@ -168,7 +168,7 @@ sections:
     feature:
       type: ImageBlock
       url: /images/IMG_7987.jpg
-      altText: Contact form image
+      altText: Healthy desserts
     styles:
       self:
         height: auto
