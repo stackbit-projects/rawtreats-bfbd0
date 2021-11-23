@@ -7,11 +7,11 @@ sections:
     colors: colors-a
     title: Vegan and Raw Desserts
     text: >
-      ##### Treat yourself with healthy, guilt free, and extremely tasty
-      desserts!
-
-
       It's hard to believe, but they exist!
+
+
+      Our desserts made only with natural ingredients that nourish your body,
+      satisfy your taste buds, and make you feel amazing!
 
 
       *   Organic
