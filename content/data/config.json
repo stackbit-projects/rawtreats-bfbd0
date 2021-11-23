@@ -49,7 +49,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Join us",
+                "label": "Order Online",
                 "url": "/",
                 "altText": "Join us",
                 "style": "secondary"
