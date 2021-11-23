@@ -6,7 +6,6 @@ sections:
     elementId: ''
     colors: colors-a
     title: Vegan and Raw Desserts
-    subtitle: Vegan and raw desserts and cakes
     text: |
       *   Organic
 
