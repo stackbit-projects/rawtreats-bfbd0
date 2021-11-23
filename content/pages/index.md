@@ -79,7 +79,7 @@ sections:
         justifyContent: flex-start
     subtitle: 'Treat yourself with healthy, guilt free, and extremely tasty desserts!'
   - elementId: ''
-    variant: variant-c
+    variant: variant-b
     colors: colors-a
     title: About Us
     subtitle: Meet the team
