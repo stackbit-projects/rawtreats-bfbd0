@@ -114,6 +114,7 @@ sections:
           - pr-4
         justifyContent: center
         borderWidth: 4
+        borderColor: border-complementary-alt
       title:
         fontWeight: 700
         fontStyle: normal
