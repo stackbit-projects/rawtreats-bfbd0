@@ -132,7 +132,7 @@ sections:
   - type: ContactSection
     elementId: contact-form
     colors: colors-f
-    title: Contact us
+    title: "Order your\_ dessert online"
     text: We look forward to hearing from you.
     form:
       type: FormBlock
