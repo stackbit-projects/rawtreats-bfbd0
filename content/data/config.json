@@ -38,7 +38,7 @@
             },
             {
                 "type": "Link",
-                "label": "About us",
+                "label": "Order",
                 "url": "/about",
                 "altText": ""
             }
