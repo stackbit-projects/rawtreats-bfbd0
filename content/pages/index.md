@@ -82,7 +82,7 @@ sections:
     variant: variant-a
     colors: colors-a
     title: Our Desserts
-    subtitle: Meet the team
+    subtitle: 'We have a lot of different kinds of desserts, find your favorite!'
     actions: []
     people:
       - content/data/team/desmond-eagle.json
