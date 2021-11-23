@@ -140,7 +140,7 @@ sections:
       type: FormBlock
       elementId: contact-form
       action: /.netlify/functions/submission_created
-      destination: ''
+      destination: natasha@stackbit.com
       fields:
         - type: TextFormControl
           name: name
