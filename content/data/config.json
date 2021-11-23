@@ -42,7 +42,8 @@
                 "type": "Link",
                 "label": "Reviewsr",
                 "url": "/about",
-                "altText": ""
+                "altText": "",
+                "style": "primary"
             }
         ],
         "secondaryLinks": [
