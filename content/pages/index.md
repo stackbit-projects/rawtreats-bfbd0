@@ -6,18 +6,25 @@ sections:
     elementId: ''
     colors: colors-a
     title: Vegan and Raw Desserts
-    text: |
-      ##### Healthy, guilt free, and extremely tasty desserts!
+    text: >
+      ##### Treat yourself with healthy, guilt free, and extremely tasty
+      desserts!
+
 
       It's hard to believe, but they exist!
 
+
       *   Organic
+
 
       *   Gluten free
 
+
       *   Dairy free
 
+
       *   Refined sugar free
+
 
       *   Soy free
     actions:
