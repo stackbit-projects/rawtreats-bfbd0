@@ -82,7 +82,7 @@ sections:
     elementId: ''
     variant: variant-a
     colors: colors-a
-    title: Services & Experiences
+    title: Our Desserts
     subtitle: 'Like we said, it''s more than just fishing'
     actions:
       - type: Button
