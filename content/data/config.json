@@ -17,7 +17,8 @@
                 "type": "Link",
                 "label": "Home",
                 "url": "/",
-                "altText": ""
+                "altText": "",
+                "style": "primary"
             },
             {
                 "label": "Desserts",
