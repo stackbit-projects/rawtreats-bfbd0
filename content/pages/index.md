@@ -83,7 +83,7 @@ sections:
     variant: variant-a
     colors: colors-a
     title: Our Desserts
-    subtitle: 'Like we said, it''s more than just fishing'
+    subtitle: 'We have a lot of different kinds of desserts, find your favorite!'
     actions:
       - type: Button
         label: View all
