@@ -169,6 +169,7 @@ sections:
       type: ImageBlock
       url: /images/IMG_7987.jpg
       altText: Healthy desserts
+      caption: Healthy desserts Order
     styles:
       self:
         height: auto
